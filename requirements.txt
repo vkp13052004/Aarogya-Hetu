@@ -1,0 +1,8 @@
+Flask
+pandas
+langchain
+openai
+chromadb
+sentence-transformers
+pydub
+SpeechRecognition

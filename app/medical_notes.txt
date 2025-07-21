@@ -1,0 +1,201 @@
+Title: Influenza (Flu)
+Abstract: Influenza is a contagious viral infection that affects the respiratory system. Symptoms include fever, chills, muscle aches, cough, congestion, runny nose, headaches, and fatigue. Treatment involves rest, fluids, and antiviral medications if prescribed.
+
+Title: Allergic Rhinitis (Hay Fever)
+Abstract: Allergic rhinitis is an allergic reaction to airborne substances like pollen, dust, or pet dander. Symptoms include sneezing, runny or stuffy nose, itchy eyes, and throat irritation. Treatment includes antihistamines, nasal sprays, and avoiding allergens.
+
+Title: Asthma
+Abstract: Asthma is a chronic condition characterized by inflammation and narrowing of the airways, leading to wheezing, coughing, shortness of breath, and chest tightness. Treatment involves inhalers, corticosteroids, and avoiding triggers.
+
+Title: Sinusitis
+Abstract: Sinusitis is inflammation of the sinuses, often caused by infection. Symptoms include facial pain, nasal congestion, headache, and thick nasal discharge. Treatment may involve decongestants, saline rinses, and sometimes antibiotics.
+
+Title: Otitis Media (Ear Infection)
+Abstract: Otitis media is an infection of the middle ear, common in children. Symptoms include ear pain, fever, irritability, and sometimes hearing loss. Treatment includes pain relievers and, in some cases, antibiotics.
+
+Title: Strep Throat
+Abstract: Strep throat is a bacterial infection of the throat and tonsils caused by Streptococcus pyogenes. Symptoms include sore throat, fever, swollen lymph nodes, and difficulty swallowing. Treatment is with antibiotics and pain relievers.
+
+Title: Bronchitis
+Abstract: Bronchitis is inflammation of the bronchial tubes, usually due to infection. Symptoms include cough with mucus, fatigue, shortness of breath, and chest discomfort. Treatment includes rest, fluids, and cough suppressants.
+
+Title: Pneumonia
+Abstract: Pneumonia is an infection of the lungs that causes inflammation and fluid accumulation. Symptoms include cough, fever, chills, difficulty breathing, and chest pain. Treatment depends on the cause and may involve antibiotics, antivirals, or supportive care.
+
+Title: Urinary Tract Infection (UTI)
+Abstract: A UTI is an infection of the urinary system, commonly affecting the bladder. Symptoms include burning during urination, frequent urge to urinate, and lower abdominal pain. Treatment involves antibiotics and increased fluid intake.
+
+Title: Conjunctivitis (Pink Eye)
+Abstract: Conjunctivitis is inflammation of the conjunctiva, usually caused by infection or allergies. Symptoms include redness, itching, tearing, and discharge from the eyes. Treatment depends on the cause and may include eye drops or antihistamines.
+
+Title: Mononucleosis
+Abstract: Mononucleosis is a viral infection, often caused by the Epstein-Barr virus. Symptoms include fatigue, sore throat, fever, swollen lymph nodes, and enlarged spleen. Treatment involves rest, fluids, and pain relievers.
+
+Title: Chickenpox
+Abstract: Chickenpox is a contagious viral infection characterized by an itchy rash, fever, and tiredness. It is caused by the varicella-zoster virus. Treatment focuses on relieving symptoms with antihistamines, calamine lotion, and rest.
+
+Title: Measles
+Abstract: Measles is a highly contagious viral disease with symptoms such as high fever, cough, runny nose, inflamed eyes, and a characteristic red rash. Treatment is supportive, including fluids and fever reducers.
+
+Title: Mumps
+Abstract: Mumps is a viral infection that primarily affects the salivary glands, causing swelling, pain, fever, and headache. Treatment is supportive, with rest, fluids, and pain relievers.
+
+Title: Rubella (German Measles)
+Abstract: Rubella is a mild viral infection with symptoms of low-grade fever, sore throat, and a pink rash. It is especially dangerous for pregnant women. Treatment is supportive.
+
+Title: Hand, Foot, and Mouth Disease
+Abstract: Hand, foot, and mouth disease is a viral illness common in children, causing fever, mouth sores, and a skin rash on the hands and feet. Treatment includes fluids and pain relievers.
+
+Title: Scarlet Fever
+Abstract: Scarlet fever is a bacterial illness that develops in some people with strep throat. Symptoms include a red rash, sore throat, and high fever. Treatment is with antibiotics.
+
+Title: Tuberculosis
+Abstract: Tuberculosis is a bacterial infection that primarily affects the lungs but can spread to other organs. Symptoms include chronic cough, weight loss, fever, and night sweats. Treatment requires a long course of antibiotics.
+
+Title: Whooping Cough (Pertussis)
+Abstract: Whooping cough is a highly contagious bacterial infection characterized by severe coughing fits followed by a "whooping" sound. Treatment includes antibiotics and supportive care.
+
+Title: Lyme Disease
+Abstract: Lyme disease is a tick-borne bacterial infection. Early symptoms include fever, headache, fatigue, and a characteristic skin rash. Treatment is with antibiotics.
+
+Title: Malaria
+Abstract: Malaria is a mosquito-borne parasitic infection causing fever, chills, and flu-like symptoms. It can be life-threatening if untreated. Treatment involves antimalarial medications.
+
+Title: Dengue Fever
+Abstract: Dengue fever is a mosquito-borne viral illness with high fever, severe headache, joint and muscle pain, and rash. Treatment is supportive with fluids and pain relievers.
+
+Title: Hepatitis A
+Abstract: Hepatitis A is a viral liver infection transmitted through contaminated food or water. Symptoms include fatigue, nausea, abdominal pain, and jaundice. Treatment is supportive.
+
+Title: Hepatitis B
+Abstract: Hepatitis B is a viral infection that attacks the liver and can become chronic. Symptoms include fatigue, jaundice, and abdominal pain. Treatment may involve antiviral medications.
+
+Title: Hepatitis C
+Abstract: Hepatitis C is a viral infection that causes liver inflammation, often becoming chronic. Symptoms may be mild or absent until advanced stages. Treatment involves antiviral medications.
+
+Title: HIV/AIDS
+Abstract: HIV is a virus that attacks the immune system and can lead to AIDS. Symptoms include fever, weight loss, and increased susceptibility to infections. Treatment is with antiretroviral therapy.
+
+Title: Herpes Simplex
+Abstract: Herpes simplex is a viral infection causing painful sores on the mouth or genitals. It is lifelong and can recur. Treatment includes antiviral medications.
+
+Title: Shingles (Herpes Zoster)
+Abstract: Shingles is a reactivation of the chickenpox virus, causing a painful, blistering rash. Treatment involves antiviral medications and pain relief.
+
+Title: Norovirus Infection
+Abstract: Norovirus is a highly contagious virus causing gastroenteritis with vomiting, diarrhea, and stomach pain. Treatment is supportive, focusing on hydration.
+
+Title: Rotavirus Infection
+Abstract: Rotavirus is a common cause of severe diarrhea in young children. Symptoms include vomiting, watery diarrhea, and fever. Treatment is with oral rehydration.
+
+Title: Salmonella Infection
+Abstract: Salmonella is a bacterial infection from contaminated food or water, causing diarrhea, fever, and abdominal cramps. Treatment is hydration and, rarely, antibiotics.
+
+Title: E. coli Infection
+Abstract: E. coli is a bacterial infection often acquired from contaminated food, leading to diarrhea, cramps, and sometimes kidney problems. Treatment is supportive.
+
+Title: Giardiasis
+Abstract: Giardiasis is a parasitic infection of the intestines, causing diarrhea, gas, and cramps. It is spread through contaminated water. Treatment is with antiparasitic medications.
+
+Title: Candidiasis (Yeast Infection)
+Abstract: Candidiasis is a fungal infection, commonly affecting the mouth or genitals. Symptoms include white patches or discharge and itching. Treatment is with antifungal medications.
+
+Title: Athlete’s Foot
+Abstract: Athlete’s foot is a fungal infection of the feet, causing itching, redness, and cracked skin. Treatment is with antifungal creams.
+
+Title: Ringworm
+Abstract: Ringworm is a contagious fungal infection of the skin, presenting as a red, ring-shaped rash. Treatment is with antifungal creams.
+
+Title: Scabies
+Abstract: Scabies is a skin infestation by mites, causing intense itching and a pimple-like rash. Treatment is with prescription creams.
+
+Title: Impetigo
+Abstract: Impetigo is a bacterial skin infection, common in children, causing red sores that rupture and form honey-colored crusts. Treatment is with antibiotics.
+
+Title: Cellulitis
+Abstract: Cellulitis is a bacterial infection of the skin and underlying tissues, causing redness, swelling, and pain. Treatment is with antibiotics.
+
+Title: Abscess
+Abstract: An abscess is a localized collection of pus due to infection. Symptoms include swelling, pain, and redness. Treatment involves drainage and antibiotics.
+
+Title: Tonsillitis
+Abstract: Tonsillitis is inflammation of the tonsils, usually due to infection. Symptoms include sore throat, fever, and swollen lymph nodes. Treatment may include antibiotics and pain relievers.
+
+Title: Laryngitis
+Abstract: Laryngitis is inflammation of the voice box, leading to hoarseness, loss of voice, and sore throat. Treatment is rest, hydration, and avoiding irritants.
+
+Title: Pharyngitis
+Abstract: Pharyngitis is inflammation of the throat, often from viral or bacterial infection. Symptoms include sore throat, fever, and difficulty swallowing. Treatment depends on the cause.
+
+Title: Otitis Externa (Swimmer’s Ear)
+Abstract: Otitis externa is an infection of the outer ear canal, often caused by water exposure. Symptoms include ear pain, itching, and discharge. Treatment is with ear drops.
+
+Title: Meningitis
+Abstract: Meningitis is inflammation of the membranes covering the brain and spinal cord, caused by infection. Symptoms include headache, fever, stiff neck, and sensitivity to light. Treatment depends on the cause and may require antibiotics.
+
+Title: Appendicitis
+Abstract: Appendicitis is inflammation of the appendix, causing abdominal pain, nausea, and fever. It is a medical emergency treated with surgical removal.
+
+Title: Gallstones
+Abstract: Gallstones are solid deposits in the gallbladder, causing pain, nausea, and sometimes jaundice. Treatment may involve dietary changes or surgery.
+
+Title: Kidney Stones
+Abstract: Kidney stones are hard mineral deposits in the kidneys, causing severe pain, blood in urine, and nausea. Treatment includes hydration, pain relief, and sometimes surgery.
+
+Title: Peptic Ulcer Disease
+Abstract: Peptic ulcer disease involves sores in the stomach or duodenal lining, causing pain, nausea, and sometimes bleeding. Treatment includes antacids and antibiotics if H. pylori is present.
+
+Title: Gastritis
+Abstract: Gastritis is inflammation of the stomach lining, causing pain, nausea, and vomiting. Causes include infection, alcohol, or medications. Treatment is with antacids and dietary changes.
+
+Title: Gastroesophageal Reflux Disease (GERD)
+Abstract: GERD is a chronic condition where stomach acid flows back into the esophagus, causing heartburn and regurgitation. Treatment includes lifestyle changes and antacids.
+
+Title: Irritable Bowel Syndrome (IBS)
+Abstract: IBS is a functional gastrointestinal disorder with symptoms of abdominal pain, bloating, and changes in bowel habits. Treatment involves dietary modifications and stress management.
+
+Title: Constipation
+Abstract: Constipation is infrequent or difficult bowel movements, causing discomfort and bloating. Treatment includes increased fiber, fluids, and sometimes laxatives.
+
+Title: Diarrhea
+Abstract: Diarrhea is frequent, loose, or watery stools, often caused by infection or diet. Treatment focuses on hydration and addressing the underlying cause.
+
+Title: Hemorrhoids
+Abstract: Hemorrhoids are swollen veins in the rectum or anus, causing pain, itching, and bleeding. Treatment includes dietary changes, topical medications, and sometimes surgery.
+
+Title: Anemia
+Abstract: Anemia is a condition with a low red blood cell count or hemoglobin, leading to fatigue, weakness, and pale skin. Treatment depends on the cause and may include iron supplements.
+
+Title: Hypertension (High Blood Pressure)
+Abstract: Hypertension is a chronic condition where blood pressure in the arteries is elevated. Often asymptomatic, it increases the risk of heart disease and stroke. Treatment includes lifestyle changes and medications.
+
+Title: Hypotension (Low Blood Pressure)
+Abstract: Hypotension is abnormally low blood pressure, which can cause dizziness, fainting, and fatigue. Treatment depends on the underlying cause.
+
+Title: Hyperthyroidism
+Abstract: Hyperthyroidism is an overactive thyroid gland, causing weight loss, rapid heartbeat, sweating, and nervousness. Treatment includes medications, radioactive iodine, or surgery.
+
+Title: Hypothyroidism
+Abstract: Hypothyroidism is an underactive thyroid gland, leading to fatigue, weight gain, and cold intolerance. Treatment is with thyroid hormone replacement.
+
+Title: Diabetes Mellitus Type 1
+Abstract: Type 1 diabetes is an autoimmune condition where the pancreas produces little or no insulin. Symptoms include increased thirst, frequent urination, and weight loss. Treatment is with insulin therapy.
+
+Title: Diabetes Mellitus Type 2
+Abstract: Type 2 diabetes is a metabolic disorder characterized by insulin resistance. Symptoms include increased thirst, frequent urination, and fatigue. Treatment includes diet, exercise, and medications.
+
+Title: Osteoarthritis
+Abstract: Osteoarthritis is a degenerative joint disease causing pain, stiffness, and reduced mobility. Treatment includes pain relievers, physical therapy, and sometimes surgery.
+
+Title: Rheumatoid Arthritis
+Abstract: Rheumatoid arthritis is an autoimmune disease causing joint inflammation, pain, and swelling. Treatment includes anti-inflammatory drugs, immunosuppressants, and physical therapy.
+
+Title: Gout
+Abstract: Gout is a form of arthritis caused by excess uric acid, leading to sudden, severe joint pain and swelling. Treatment includes anti-inflammatory medications and dietary changes.
+
+Title: Psoriasis
+Abstract: Psoriasis is a chronic autoimmune skin disease causing red, scaly patches. Treatment includes topical treatments, phototherapy, and systemic medications.
+
+Title: Eczema (Atopic Dermatitis)
+Abstract: Eczema is a chronic skin condition with itchy, inflamed patches. Treatment includes moisturizers, corticosteroid creams, and avoiding triggers.
+

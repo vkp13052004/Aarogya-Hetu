@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aarogya Hetu</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>🩺 Aarogya Hetu – AI Medical Assistant</h2>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <label>Enter Symptoms or Upload Voice:</label>
+            <textarea name="query" rows="4" placeholder="Describe your symptoms..."></textarea>
+            <br><br>
+            <input type="file" name="audio">
+            <br><br>
+            <button type="submit">Get Diagnosis</button>
+        </form>
+        {% if result %}
+        <hr>
+        <h3>Response:</h3>
+        <p>{{ result }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
